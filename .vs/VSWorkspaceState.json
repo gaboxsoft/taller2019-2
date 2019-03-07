@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\components",
+    "\\middleware",
+    "\\models",
+    "\\routes",
+    "\\server",
+    "\\store"
+  ],
+  "SelectedNode": "\\routes\\paciente.js",
+  "PreviewInSolutionExplorer": false
+}
